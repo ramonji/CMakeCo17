@@ -1,0 +1,5 @@
+# Ignore the out directory
+out/
+
+# Ignore the .vs directory
+.vs/
